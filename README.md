@@ -1,6 +1,6 @@
 # Secure Account Manager
 
-A React application for securely managing user credentials with a Node.js and Express backend, utilizing MongoDB for data storage. This app allows users to add, edit, delete, and view their accounts easily.
+A Simple React application for securely managing user credentials with a Node.js and Express backend, utilizing MongoDB for data storage. This app enables users to easily add, edit, delete, and view their accounts.
 
 ## Features
 - Add new accounts
@@ -25,4 +25,4 @@ A React application for securely managing user credentials with a Node.js and Ex
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Sabirhussainbalal/Secure_Account_Manager.git
+git clone https://github.com/Sabirhusseinbalal/Secure_Account_Manager.git
