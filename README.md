@@ -28,5 +28,5 @@ A Simple React application for securely managing user credentials with a Node.js
 git clone https://github.com/Sabirhusseinbalal/Secure_Account_Manager.git
 ```
 
-🎥 **Demo Video**: Watch a short demo of this simple React application.
+🎥 **[Demo Video](Demo.mp4)**: Watch a short demo of this simple React application.
 
